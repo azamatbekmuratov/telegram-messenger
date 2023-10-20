@@ -1,0 +1,7 @@
+POST http://localhost:8080/send-message
+Content-Type: application/json
+
+{
+  "chat_id": "-1002146569372",
+  "message": "Это приветственное сообщение"
+}
